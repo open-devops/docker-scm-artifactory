@@ -1,4 +1,6 @@
-# docker-scm-artifactory
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000)](https://hub.docker.com/r/devopsopen/docker-scm-artifactory/)
+
+# Repository Management - Artifactory
 Artifactory image for Open DevOps Pipeline
 
 #docker pull
